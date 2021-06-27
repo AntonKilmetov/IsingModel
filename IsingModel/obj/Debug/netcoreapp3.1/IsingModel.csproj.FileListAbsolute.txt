@@ -1,0 +1,13 @@
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.exe
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.deps.json
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.runtimeconfig.json
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.runtimeconfig.dev.json
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.dll
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\bin\Debug\netcoreapp3.1\IsingModel.pdb
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.csprojAssemblyReference.cache
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.AssemblyInfoInputs.cache
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.AssemblyInfo.cs
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.csproj.CoreCompileInputs.cache
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.dll
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.pdb
+C:\anton1\СomputationalPhysics\IsingModel\IsingModel\obj\Debug\netcoreapp3.1\IsingModel.genruntimeconfig.cache
